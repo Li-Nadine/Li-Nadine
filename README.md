@@ -1,6 +1,6 @@
 ### Hello world, nice to meet you! :sunflower:
 
-:arrow_right: about me: born 1983, :womens:
+:arrow_right: about me: born 1983 (:womens:)
 
 :mortar_board: @coding-bootcamps-eu
 
