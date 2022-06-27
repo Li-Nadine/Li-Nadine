@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello world, nice to meet you! :sunflower:
+
+:arrow_right: about me: born 1983, :womens:
+
+:mortar_board: @coding-bootcamps-eu
+
+:house: Berlin, Germany
+
+:heart: Music, cats, dogs, coffee
 
 <!--
 **Li-Nadine/Li-Nadine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
